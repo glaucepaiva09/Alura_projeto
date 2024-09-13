@@ -1,0 +1,22 @@
+body {
+color: white;
+background: rgb(24, 3, 65);
+font-family: "Nerko One", cursive;
+}
+
+header {
+    border: solid 5px rgb(26, 0, 79);
+    padding: 10px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+section{
+    background: rgb(11, 2, 36);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada{
+    margin-right: 5%;
+}
